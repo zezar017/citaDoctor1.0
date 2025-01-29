@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cartapoker/cartapoker.iml" filepath="$PROJECT_DIR$/cartapoker/cartapoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/citasDoctor.iml" filepath="$PROJECT_DIR$/citasDoctor.iml" />
+    </modules>
+  </component>
+</project>
